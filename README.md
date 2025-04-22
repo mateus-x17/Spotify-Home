@@ -10,7 +10,7 @@
     
     MongoDB (Banco de dados não relacional)
     
-    Mongoose (Biblioteca ORM para MongoDB)
+    MongoDB (versão Biblioteca ORM para MongoDB)
     
     JSON (Manipulação de dados e simulação de resposta local)
     
