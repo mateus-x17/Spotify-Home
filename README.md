@@ -35,12 +35,12 @@
     1. Clone o repositório: git clone https://github.com/mateus-x17/seu-repositorio.git
   
     2. Instale as dependências (no frontend):
-        cd client;
+        cd frontend;
         npm install;
         npm start
     
     3. Configure e inicie o backend:
-        cd server;
+        cd backend;
         npm install;
         npm run dev
     
